@@ -265,6 +265,12 @@ text-align: end;
   font-size: 14px;
   font-weight: 300;
 }
+
+.right .button-container {
+  display: flex;
+  justify-content: end;
+}
+
 .cart-wrapper{
   width: 100vw;
   background: rgba(0, 0, 0, 0.5);
